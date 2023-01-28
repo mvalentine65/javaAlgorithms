@@ -1,0 +1,9 @@
+*.png
+*.xml
+.lift*
+*.class
+.idea*
+*.zip
+*.iml
+*.jar
+*.txt
